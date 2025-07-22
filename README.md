@@ -50,11 +50,3 @@ Simulates required sample size and estimates **Euler’s constant (e)**:
 - Q7: Computes required `n` for achieving a specified margin of error.
 - Q8: Repeatedly draws `U(0,1)` values until their sum exceeds 1, and uses average count to estimate **e**.
 
----
-
-## How to Run
-
-To run any script:
-
-```r
-source("CH2.R")  # or any other filename
